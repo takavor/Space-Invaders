@@ -1,5 +1,6 @@
 # Space-Invaders
 A recreation of the classic Space Invaders game using JavaFX.
+
 ![alt text](https://github.com/takavor/Space-Invaders/blob/master/assets/images/demogif.gif)
 
 ## Installation
