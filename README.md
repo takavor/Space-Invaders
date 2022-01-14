@@ -1,7 +1,7 @@
 # Space-Invaders
 A recreation of the classic Space Invaders game using JavaFX.
 
-https://user-images.githubusercontent.com/47959146/149539452-9e7fdd4b-5060-4417-b19b-3fab5468aed1.mp4
+https://user-images.githubusercontent.com/47959146/149539707-639067ab-40e8-4ced-9fbb-3b3b5d49628f.mp4
 
 ## Installation
 Clone the repository and compile the project to run the game.
